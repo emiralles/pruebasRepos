@@ -1,5 +1,3 @@
 data
 dato
-dati
-datu
 date
